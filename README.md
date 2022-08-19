@@ -3,42 +3,46 @@
 </div>
 
 <div align="center">
-  <a href="https://t.me/k0t0hlebushek"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="mailto:kotohlebushek@mail.ru"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=PepeCh1ll&color=red&style=flat-square">
 </div>
 
-<h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30">
-</h1>
+# :warning: ReadMe in other languages [here](google.com)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300">
-</div>
+# :page_facing_up: Содержание
 
----
+- :man: [Кто я?](#man-кто-я)
+- :mortar_board: [Навыки](#mortar_board-навыки)
+- :floppy_disk: [Проекты](#floppy_disk-проекты)
+- :chart_with_upwards_trend: [Статистика](#chart_with_upwards_trend-статистика)
+- :telephone_receiver: [Связаться](#telephone_receiver-связаться)
 
-### :man_technologist: About Me :
-- :ru: I am a Python Developer from Russia
-- :zap: Developing bots for popular messengers (Telegram, VK, Discord, etc.), parsers and scripts
+# :man: Кто я?
 
----
+Привет :v:
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white">
-</div>
+Я - студент из России :ru:
 
----
+Занимаюсь разработкой на Python :snake:
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PepeCh1ll&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+:hammer_and_wrench: Специализируюсь на разработке:
+- :space_invader: Ботов для популярных мессенджеров (Telegram, VK, Discord и т.п.)
+- :wrench: Парсеров и скриптов
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepeCh1ll&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# :mortar_board: Навыки
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+
+# :floppy_disk: Проекты
+
+# :chart_with_upwards_trend: Статистика
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PepeCh1ll&theme=dark&date_format=j%20M%5B%20Y%5D&locale=ru)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepeCh1ll&layout=compact&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+
+# :telephone_receiver: Связаться
