@@ -43,7 +43,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PepeCh1ll&theme=dark&date_format=j%20M%5B%20Y%5D&locale=zh)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepeCh1ll&layout=compact&theme=dark&locale=zh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepeCh1ll&layout=compact&theme=dark&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 # :telephone_receiver: 联系我们
 
