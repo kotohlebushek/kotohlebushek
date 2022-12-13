@@ -43,7 +43,7 @@ Jeg udvikler mig i Python :snake:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PepeCh1ll&theme=dark&date_format=j%20M%5B%20Y%5D&locale=da)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepeCh1ll&layout=compact&theme=dark&locale=da)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepeCh1ll&layout=compact&theme=dark&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 # :telephone_receiver: Kontakt
 
