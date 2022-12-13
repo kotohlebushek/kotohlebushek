@@ -14,7 +14,7 @@
 - :mortar_board: [מיומנויות](#mortar_board-מיומנויות)
 - :floppy_disk: [פרויקטים](#floppy_disk-פרויקטים)
 - :chart_with_upwards_trend: [סטטיסטיקה](#chart_with_upwards_trend-סטטיסטיקה)
-- :telephone_receiver: [צור קשר](#telephone_receiver-צור קשר)
+- :telephone_receiver: [צור קשר](#telephone_receiver-צור-קשר)
 
 # :man: מי אני?
 
