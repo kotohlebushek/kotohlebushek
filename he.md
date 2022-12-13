@@ -10,7 +10,7 @@
 
 # :page_facing_up: תוכן
 
-- :man: [מי אני?](#man-%D7%9E%D7%99--%D7%90%D7%A0%D7%99)
+- :man: [מי אני?](#man-מי-אני)
 - :mortar_board: [מיומנויות](#mortar_board-מיומנויות)
 - :floppy_disk: [פרויקטים](#floppy_disk-פרויקטים)
 - :chart_with_upwards_trend: [סטטיסטיקה](#chart_with_upwards_trend-סטטיסטיקה)
