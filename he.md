@@ -11,10 +11,10 @@
 # :page_facing_up: תוכן
 
 - :man: [מי אני?](#man-מי--אני)
-- :mortar_board: [מיומנויות](#mortar_board-מיומנויות))
-- :floppy_disk: [פרויקטים](#floppy_disk-פרויקטים))
-- :chart_with_upwards_trend: [סטטיסטיקה](#chart_with_upwards_trend-סטטיסטיקה))
-- :telephone_receiver: [צור קשר](#telephone_receiver-צור קשר))
+- :mortar_board: [מיומנויות](#mortar_board-מיומנויות)
+- :floppy_disk: [פרויקטים](#floppy_disk-פרויקטים)
+- :chart_with_upwards_trend: [סטטיסטיקה](#chart_with_upwards_trend-סטטיסטיקה)
+- :telephone_receiver: [צור קשר]](#telephone_receiver-צור קשר))
 
 # :man: מי אני?
 
@@ -43,7 +43,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PepeCh1ll&theme=dark&date_format=j%20M%5B%20Y%5D&locale=he)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepeCh1ll&layout=compact&theme=dark&locale=he)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepeCh1ll&layout=compact&theme=dark&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 # :telephone_receiver: צור קשר
 
