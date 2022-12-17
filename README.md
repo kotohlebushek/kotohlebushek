@@ -39,6 +39,8 @@
 
 # :floppy_disk: Проекты
 
+[Telegram бот для прохождения чекпоинта](https://github.com/PepeCh1ll/checkpoint-bot) - С помощью этого Telegram бота можно получить фотографию для прохождения чекпоинта (например, в Facebook). Для получения уникальных фотографий используется сервис thispersondoesnotexist.com
+
 # :chart_with_upwards_trend: Статистика
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PepeCh1ll&theme=dark&date_format=j%20M%5B%20Y%5D&locale=ru)](https://git.io/streak-stats)
