@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PepeCh1ll&color=red&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=kotohlebushek&color=red&style=flat-square">
 </div>
 
-# :warning: ReadMe in other languages [here](https://github.com/PepeCh1ll/PepeCh1ll)
+# :warning: ReadMe in other languages [here](https://github.com/kotohlebushek/kotohlebushek)
 
 # :page_facing_up: বিষয়বস্তু
 
@@ -41,9 +41,9 @@
 
 # :chart_with_upwards_trend: পরিসংখ্যান
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PepeCh1ll&theme=dark&date_format=j%20M%5B%20Y%5D&locale=bn)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kotohlebushek&theme=dark&date_format=j%20M%5B%20Y%5D&locale=ru)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepeCh1ll&layout=compact&theme=dark&locale=bn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotohlebushek&layout=compact&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
 # :telephone_receiver: যোগাযোগ
 
