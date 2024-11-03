@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width=150>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150">
 </div>
 
 <div align="center">
@@ -18,28 +18,32 @@
 
 # :man: Кто я?
 
-Привет :v:
+Привет! :wave:
 
-Я - студент из России :ru:
-
-Занимаюсь разработкой на Python :snake:
+Меня зовут **[Твоё Имя]**, я студент и разработчик из России :ru:, активно развиваюсь в программировании и создании проектов на разных языках и платформах. Моё любимое направление — **разработка ботов и парсеров** для автоматизации процессов и решения повседневных задач.
 
 :hammer_and_wrench: Специализируюсь на разработке:
 - :space_invader: Ботов для популярных мессенджеров (Telegram, VK, Discord и т.п.)
-- :wrench: Парсеров и скриптов
+- :wrench: Парсеров и скриптов для сбора и обработки данных
+
+> _"Кто не созидает, должен разрушать."_
 
 # :mortar_board: Навыки
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # :floppy_disk: Проекты
 
-[Telegram бот для прохождения чекпоинта](https://github.com/PepeCh1ll/checkpoint-bot) - С помощью этого Telegram бота можно получить фотографию для прохождения чекпоинта (например, в Facebook). Для получения уникальных фотографий используется сервис thispersondoesnotexist.com
+[Telegram бот для прохождения чекпоинта](https://github.com/PepeCh1ll/checkpoint-bot)  
+С помощью этого Telegram бота можно получить фотографию для прохождения чекпоинта (например, в Facebook). Для получения уникальных фотографий используется сервис thispersondoesnotexist.com.
 
 # :chart_with_upwards_trend: Статистика
 
@@ -51,4 +55,3 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k0t0hlebushek)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotohlebushek@mail.ru)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/628531217817665537)
