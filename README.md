@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=kotohlebushek&color=red&style=flat-square">
 </div>
 
-# :warning: ReadMe in other languages [here](https://github.com/kotohlebushek/kotohlebushek)
+# :warning: ReadMe in other languages [here](https://github.com/kotohlebushek/kotohlebushek/en.md)
 
 # :page_facing_up: Содержание
 
@@ -20,7 +20,7 @@
 
 Привет! :wave:
 
-Меня зовут **[Твоё Имя]**, я студент и разработчик из России :ru:, активно развиваюсь в программировании и создании проектов на разных языках и платформах. Моё любимое направление — **разработка ботов и парсеров** для автоматизации процессов и решения повседневных задач.
+Меня зовут **Кирилл**, я студент и разработчик из России :ru:, активно развиваюсь в программировании и создании проектов на разных языках и платформах. Моё любимое направление — **разработка ботов и парсеров** для автоматизации процессов и решения повседневных задач.
 
 :hammer_and_wrench: Специализируюсь на разработке:
 - :space_invader: Ботов для популярных мессенджеров (Telegram, VK, Discord и т.п.)
