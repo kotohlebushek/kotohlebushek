@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=kotohlebushek&color=red&style=flat-square">
 </div>
 
-# :warning: ReadMe in other languages [here](https://github.com/kotohlebushek/kotohlebushek/en.md)
+# :warning: ReadMe in other languages [here](https://github.com/kotohlebushek/kotohlebushek/blob/main/en.md)
 
 # :page_facing_up: Содержание
 
