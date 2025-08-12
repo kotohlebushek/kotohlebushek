@@ -45,6 +45,9 @@ My name is **Kirill**, a student and developer from Russia :ru:, and I'm activel
 [Telegram Bot for Checkpoint Verification](https://github.com/PepeCh1ll/checkpoint-bot)  
 This Telegram bot generates unique photos for checkpoint verification (for example, on Facebook). The bot utilizes the service thispersondoesnotexist.com to create images of non-existent people.
 
+[Spotify-Bot](https://github.com/kotohlebushek/Spotify-Bot)  
+A Telegram bot for interacting with Spotify. Allows you to log in via Spotify, search for tracks, like them, play them, and add them to the playback queue directly from Telegram.
+
 # :chart_with_upwards_trend: Statistics
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kotohlebushek&theme=dark&date_format=j%20M%5B%20Y%5D&locale=en)](https://git.io/streak-stats)

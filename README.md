@@ -42,8 +42,11 @@
 
 # :floppy_disk: Проекты
 
-[Telegram бот для прохождения чекпоинта](https://github.com/PepeCh1ll/checkpoint-bot)  
+[Telegram бот для прохождения чекпоинта](https://github.com/kotohlebushek/checkpoint-bot)  
 С помощью этого Telegram бота можно получить фотографию для прохождения чекпоинта (например, в Facebook). Для получения уникальных фотографий используется сервис thispersondoesnotexist.com.
+
+[Spotify-Bot](https://github.com/kotohlebushek/Spotify-Bot)  
+Telegram-бот для взаимодействия со Spotify. Позволяет авторизоваться через Spotify, искать треки, лайкать их, воспроизводить и добавлять в очередь на воспроизведение прямо из Telegram.
 
 # :chart_with_upwards_trend: Статистика
 
