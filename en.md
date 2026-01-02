@@ -50,7 +50,7 @@ A Telegram bot for interacting with Spotify. Allows you to log in via Spotify, s
 
 # :chart_with_upwards_trend: Statistics
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kotohlebushek&theme=dark&date_format=j%20M%5B%20Y%5D&locale=en)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kotohlebushek&theme=dark&date_format=j%20M%5B%20Y%5D&locale=en)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotohlebushek&layout=compact&theme=dark&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -58,3 +58,4 @@ A Telegram bot for interacting with Spotify. Allows you to log in via Spotify, s
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/k0t0hlebushek)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotohlebushek@mail.ru)
+
