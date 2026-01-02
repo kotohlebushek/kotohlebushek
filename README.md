@@ -50,7 +50,7 @@ Telegram-бот для взаимодействия со Spotify. Позволя
 
 # :chart_with_upwards_trend: Статистика
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kotohlebushek&theme=dark&date_format=j%20M%5B%20Y%5D&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kotohlebushek&theme=dark&date_format=j%20M%5B%20Y%5D&locale=ru)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotohlebushek&layout=compact&theme=dark&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
